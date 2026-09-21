@@ -1,0 +1,5 @@
+serverguard
+*.swp
+*.swo
+*.backup
+.DS_Store
